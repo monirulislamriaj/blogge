@@ -12,7 +12,7 @@ Jackcreative is a simple, minimal and responsive Portfolio  Theme. Jackcreative 
 - [Hire](#Hire)
 
 ## Live-Demo
-Checkout the live demo [here](https://jackcreative-eleventy.staticmania.com/)
+Checkout the live demo [here](https://blogge.netlify.app)
 
 ## Installation
 1. Add the repository into your Eleventy Project repository by `git clone https://github.com/StaticMania/jackcreative-eleventy.git`
@@ -31,7 +31,7 @@ Checkout the live demo [here](https://jackcreative-eleventy.staticmania.com/)
 - Crafted for Design Agency/ Portfolio
 
 ## Support
-Have some question or facing any technical trouble feel free to [Contact Us](https://staticmania.com/contact/)
+Have some question or facing any technical trouble feel free to [Contact Us](https://riaj.netlify.app)
 
 ## Licensing
 This Repository is licensed under the [MIT](#) License
