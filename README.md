@@ -35,3 +35,6 @@ Have some question or facing any technical trouble feel free to [Contact Us](htt
 
 ## Licensing
 This Repository is licensed under the [MIT](#) License
+
+## Hire
+Need help to build Eleventy websites with your custom requirements. Feel free to [contact](https://riaj.netlify.app) with us. We provide custom development service for Eleventy.
